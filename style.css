@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -109,4 +110,23 @@ parallax-inner {
 .links:hover {
     background-color: teal;
 
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.article:hover {
+    color: darkorchid;
+
+}
+html{
+scroll-behavior: smooth;    
+    
+    
+    
+    
+    
+    
 }
